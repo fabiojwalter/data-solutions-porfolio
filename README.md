@@ -7,4 +7,4 @@
 
 ## Data relationships
 
-![Data Model](relations.png))
+![Data Model](relations.png)
